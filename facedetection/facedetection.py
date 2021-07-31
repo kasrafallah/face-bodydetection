@@ -19,4 +19,4 @@ while True:
 
 
     cv2.imshow('Image',img)
-    cv
+    cv2.waitKey(1)
