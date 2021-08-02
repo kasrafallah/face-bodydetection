@@ -6,5 +6,5 @@ this project is about using libraries like media pipe and cv2 for implementing f
   
 ### main parts
 
-#### - for see the details of real-time webcam face detection you could [click here](docs/CONTRIBUTING.md)
+#### - for see the details of real-time webcam face detection you could [click here](https://github.com/kasrafallah/face-bodydetection/tree/main/facedetection)
 #### - for see the details of real-time webcam palm detection you could [click here](https://github.com/kasrafallah/face-bodydetection/tree/main/PalmDetection)
